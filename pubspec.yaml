@@ -1,0 +1,55 @@
+name: draft_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # iOS style icons
+  cupertino_icons: ^1.0.8
+
+  # ✅ Firebase packages
+  firebase_core: ^4.0.0   # Required for Firebase initialization
+  firebase_auth: ^6.0.1   # Firebase Authentication
+  cloud_firestore: ^6.0.0  # Firestore Database
+  
+  # 🌐 HTTP and networking
+  http: ^1.1.0  # HTTP client for API calls
+  
+  # 📊 Data processing and analytics
+  crypto: ^3.0.3  # Cryptographic functions
+  
+  # 📈 Charts and visualization
+  fl_chart: ^1.0.0  # Beautiful charts for analytics
+  
+  # ⚡ Performance and utilities
+  shared_preferences: ^2.2.2  # Local storage
+  sqflite: ^2.3.2  # Local SQLite database
+  path: ^1.8.3  # Path utilities
+  
+  # 🔔 Enhanced notifications
+  flutter_local_notifications: ^19.4.0  # Local notifications
+  
+  # 🌐 Network and connectivity
+  connectivity_plus: ^6.1.5  # Network connectivity
+  
+  # 📱 Device information
+  device_info_plus: ^11.5.0  # Device information
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Example for adding assets later
+  # assets:
+  #   - images/

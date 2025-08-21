@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22761378881",
+    "project_id": "mobisec-e1eb7",
+    "storage_bucket": "mobisec-e1eb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22761378881:android:ba47234738a7073e2ce2c0",
+        "android_client_info": {
+          "package_name": "com.example.draft_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZ6zWU1JtrAkPSaC2K67IFQ_xVBciO8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
